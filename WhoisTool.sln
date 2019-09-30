@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhoisTool", "WhoisTool\WhoisTool.csproj", "{DDDF3E80-05C1-45B6-8508-99B508751F84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDDF3E80-05C1-45B6-8508-99B508751F84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDDF3E80-05C1-45B6-8508-99B508751F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDDF3E80-05C1-45B6-8508-99B508751F84}.Debug|x64.ActiveCfg = Debug|x64
+		{DDDF3E80-05C1-45B6-8508-99B508751F84}.Debug|x64.Build.0 = Debug|x64
+		{DDDF3E80-05C1-45B6-8508-99B508751F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDDF3E80-05C1-45B6-8508-99B508751F84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDDF3E80-05C1-45B6-8508-99B508751F84}.Release|x64.ActiveCfg = Release|x64
+		{DDDF3E80-05C1-45B6-8508-99B508751F84}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D9E2037-58B2-4453-A07A-9EAF657BDFB3}
+	EndGlobalSection
+EndGlobal

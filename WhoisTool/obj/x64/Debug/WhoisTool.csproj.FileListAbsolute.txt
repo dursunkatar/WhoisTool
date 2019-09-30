@@ -1,0 +1,13 @@
+C:\Users\bss\source\repos\WhoisTool\WhoisTool\bin\x64\Debug\WhoisTool.exe
+C:\Users\bss\source\repos\WhoisTool\WhoisTool\bin\x64\Debug\WhoisTool.pdb
+C:\Users\bss\source\repos\WhoisTool\WhoisTool\bin\x64\Debug\System.ValueTuple.dll
+C:\Users\bss\source\repos\WhoisTool\WhoisTool\bin\x64\Debug\System.ValueTuple.xml
+C:\Users\bss\source\repos\WhoisTool\WhoisTool\obj\x64\Debug\WhoisTool.csprojAssemblyReference.cache
+C:\Users\bss\source\repos\WhoisTool\WhoisTool\obj\x64\Debug\WhoisTool.FrmAbout.resources
+C:\Users\bss\source\repos\WhoisTool\WhoisTool\obj\x64\Debug\WhoisTool.FrmMain.resources
+C:\Users\bss\source\repos\WhoisTool\WhoisTool\obj\x64\Debug\WhoisTool.Properties.Resources.resources
+C:\Users\bss\source\repos\WhoisTool\WhoisTool\obj\x64\Debug\WhoisTool.csproj.GenerateResource.cache
+C:\Users\bss\source\repos\WhoisTool\WhoisTool\obj\x64\Debug\WhoisTool.csproj.CoreCompileInputs.cache
+C:\Users\bss\source\repos\WhoisTool\WhoisTool\obj\x64\Debug\WhoisTool.csproj.CopyComplete
+C:\Users\bss\source\repos\WhoisTool\WhoisTool\obj\x64\Debug\WhoisTool.exe
+C:\Users\bss\source\repos\WhoisTool\WhoisTool\obj\x64\Debug\WhoisTool.pdb
